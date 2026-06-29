@@ -1,1 +1,1 @@
-﻿60F6E033169ACF09BC2CCD36088B7630296DBBD1938776A5BADBBAD717203C3A  jieyouai-desktop-0.1.0-beta.1-win-x64-setup.exe
+﻿d8a9ecbd0c0f32cb7e091aa8d01e0f0fc5a8366e6acf83c4a98d9fd03c665731  jieyouai-desktop-0.1.0-beta.1-win-x64-setup.exe
