@@ -22,13 +22,23 @@
 
 ### macOS
 
-macOS 安装包正在准备中。若你需要测试版，请联系管理员获取。
+下载安装包：
+
+[macOS Apple Silicon 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-macos-arm64.dmg)
+
+[macOS Intel 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-macos-x64.dmg)
+
+备用压缩包：
+
+[macOS Apple Silicon app.zip](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-macos-arm64.app.zip)
+
+[macOS Intel app.zip](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-macos-x64.app.zip)
 
 ## 安装说明
 
 Windows 用户下载 `.exe` 后直接运行安装。
 
-macOS 测试版如果提示无法验证开发者，可以在访达中右键应用并选择“打开”。正式签名版本会在后续发布。
+macOS 测试版如果提示无法验证开发者，可以在访达中右键应用并选择“打开”。当前是未公证测试包，正式签名版本会在后续发布。
 
 ## 文件校验
 
