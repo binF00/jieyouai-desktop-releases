@@ -2,4 +2,4 @@
 75165b88e9fcd18db5ea03efa573866529daf8ecb20cb28b8f2544e53a9372b7  jieyouai-desktop-0.1.0-beta.1-macos-arm64.dmg
 4dd06ff12eaa5cbcaecc6032f7a5107d4be92115a98e3a654b9a0202f9931ebb  jieyouai-desktop-0.1.0-beta.1-macos-x64.app.zip
 46a21cbeb191af6f62b61249e6b80ead76542f7efc520d8551fe5e57e939e69b  jieyouai-desktop-0.1.0-beta.1-macos-x64.dmg
-e5d791d1fa2b34825ac545a1aa9adfc05629c1c0d0e0bbbb427f2f65ae3387d5  jieyouai-desktop-0.1.0-beta.1-win-x64-setup.exe
+564231111a139fad1def2dda22aff1f986560a5e7cb15833fb2c35222abce2db  jieyouai-desktop-0.1.0-beta.1-win-x64-setup.exe
