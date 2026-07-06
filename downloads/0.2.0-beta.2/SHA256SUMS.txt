@@ -1,0 +1,1 @@
+c5ba6c5bcb0e878506bb1028cc7425188664de77dce2995405feddc79c566e2f  jieyouai-desktop-0.2.0-beta.2-win-x64-setup.exe
