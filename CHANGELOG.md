@@ -1,5 +1,18 @@
 ﻿# 发布说明
 
+## 0.2.0-beta.1
+
+- 基于 cc-switch 底座重构客户版客户端。
+- 复用 cc-switch ProviderService 完成 Codex / Claude Code 配置新增、更新和切换。
+- 只接入解忧中转 Key，不再暴露多 Provider 管理入口给普通客户。
+- 网页登录后读取账户和 Key 列表，前端不保存完整 Key。
+- 配置 Codex 成功后自动扫描聊天记录状态。
+- 集成固定版本 codex-provider-sync，支持安全扫描、立即恢复、自动备份和撤回本次恢复。
+- 修复 codex-provider-sync 空输出时显示 EOF 的问题，改为可读错误。
+- 打包内置 Windows Node runtime，聊天记录恢复不依赖客户电脑已安装 Node。
+- 关闭继承自 cc-switch 的自动更新产物生成和上游更新端点。
+- 当前仅发布 Windows x64 安装包；macOS 包后续单独构建验证。
+
 ## 0.1.0-beta.1
 
 - Windows a974b76 构建：Codex/Claude Code 配置写入改为 cc-switch 等效逻辑。
