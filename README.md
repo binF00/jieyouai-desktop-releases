@@ -6,15 +6,17 @@
 
 版本：0.1.0-beta.1
 
+Windows 当前构建：a974b76
+
 ### Windows 10 / Windows 11
 
 下载安装包：
 
-[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-win-x64-setup-a974b76.exe)
 
 备用链接：
 
-[打开 GitHub 文件页](downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-win-x64-setup.exe)
+[打开 GitHub 文件页](downloads/0.1.0-beta.1/jieyouai-desktop-0.1.0-beta.1-win-x64-setup-a974b76.exe)
 
 校验文件：
 

@@ -2,6 +2,9 @@
 
 ## 0.1.0-beta.1
 
+- Windows a974b76 构建：Codex/Claude Code 配置写入改为 cc-switch 等效逻辑。
+- Codex 写入 `config.toml` 的 `experimental_bearer_token` 和 `cc-switch-model-catalog.json`，不覆盖 `auth.json`。
+- Claude Code 写入 `settings.json` 的 `ANTHROPIC_AUTH_TOKEN`，移除旧 `apiKeyHelper` 路径。
 - 支持 Windows x64 安装包。
 - 支持 macOS Apple Silicon 和 macOS Intel 测试安装包。
 - 首次使用强制网页登录，不再提供旧的手动 Key 登录入口。
