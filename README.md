@@ -4,23 +4,23 @@
 
 ## 最新版本
 
-版本：0.2.0-beta.9
+版本：0.2.0-beta.14
 
-Windows 当前构建：cc-switch 底座重构版，新增 Claude Desktop 配置入口
+Windows 当前构建：优化软件配置中心反馈、固定导入 Provider 名称，并修复删除确认顺序。
 
 ### Windows 10 / Windows 11
 
 下载安装包：
 
-[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.2.0-beta.9/jieyouai-desktop-0.2.0-beta.9-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.2.0-beta.14/jieyouai-desktop-0.2.0-beta.14-win-x64-setup.exe)
 
 备用链接：
 
-[打开 GitHub 文件页](downloads/0.2.0-beta.9/jieyouai-desktop-0.2.0-beta.9-win-x64-setup.exe)
+[打开 GitHub 文件页](downloads/0.2.0-beta.14/jieyouai-desktop-0.2.0-beta.14-win-x64-setup.exe)
 
 校验文件：
 
-[SHA256SUMS.txt](downloads/0.2.0-beta.9/SHA256SUMS.txt)
+[SHA256SUMS.txt](downloads/0.2.0-beta.14/SHA256SUMS.txt)
 
 ### macOS
 

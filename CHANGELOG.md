@@ -1,5 +1,12 @@
 # 发布说明
 
+## 0.2.0-beta.14
+
+- 软件配置中心的“重新读取”现在会显示加载状态和顶部结果提示。
+- 通过“导入并启用当前 Key”写入的 Provider 名称固定为 `JieYou API`，不再拼接 Key 名称。
+- 删除软件配置中心里的 API/Provider 时，改为先确认，确认后再删除。
+- 保持 Windows x64 安装方式不变，本版本用于客户继续测试。
+
 ## 0.2.0-beta.9
 
 - 新增 Claude Desktop 配置入口，底层复用 cc-switch 的 Claude Desktop 3P profile 写入与切换逻辑。
