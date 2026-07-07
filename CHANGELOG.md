@@ -1,5 +1,13 @@
 # 发布说明
 
+## 0.2.0-beta.9
+
+- 新增 Claude Desktop 配置入口，底层复用 cc-switch 的 Claude Desktop 3P profile 写入与切换逻辑。
+- Codex、Claude Code、Claude Desktop 现在可在同一配置流程中选择。
+- Claude Desktop 配置成功后提示用户完全退出并重新打开 Claude Desktop。
+- 授权登录网页 UI 已优化，更适合普通客户理解当前步骤。
+- 保留原有 Windows x64 安装方式，本版本用于客户测试。
+
 ## 0.2.0-beta.2
 
 - 修复“创建 Key”按钮跳转到错误路由的问题，现在打开中转站可用的 Key 页面。
