@@ -4,23 +4,23 @@
 
 ## 最新版本
 
-版本：1.0.0
+版本：1.0.1
 
-Windows 当前构建：正式第一版。优化网络配置引导、标题栏应用图标，并保留已验证通过的 Key 导入、软件配置和 Codex 聊天记录恢复流程。
+Windows 当前构建：修正标题栏误用 CC Switch 图标的问题，统一为解忧 AI 图标。
 
 ### Windows 10 / Windows 11
 
 下载安装包：
 
-[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.0/jieyouai-desktop-1.0.0-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.1/jieyouai-desktop-1.0.1-win-x64-setup.exe)
 
 备用链接：
 
-[打开 GitHub 文件页](downloads/1.0.0/jieyouai-desktop-1.0.0-win-x64-setup.exe)
+[打开 GitHub 文件页](downloads/1.0.1/jieyouai-desktop-1.0.1-win-x64-setup.exe)
 
 校验文件：
 
-[SHA256SUMS.txt](downloads/1.0.0/SHA256SUMS.txt)
+[SHA256SUMS.txt](downloads/1.0.1/SHA256SUMS.txt)
 
 ### macOS
 
