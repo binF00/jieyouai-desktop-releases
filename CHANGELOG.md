@@ -1,5 +1,12 @@
 # 发布说明
 
+## 0.2.0-beta.15
+
+- 修复部分 Windows 客户端点击“恢复聊天记录”的安全扫描时失败的问题。
+- 根因是打包后资源路径可能被转换为 Windows verbatim 格式，传给内置 Node 运行 codex-provider-sync wrapper 时会触发 `EISDIR: illegal operation on a directory, lstat 'C:'`。
+- 现在在调用内置 Node 前会把 `\\?\` 路径转换为 Node 兼容的普通 Windows 路径，不改变 codex-provider-sync 的扫描和恢复逻辑。
+- 本版本继续只更新 Windows x64 安装包。
+
 ## 0.2.0-beta.14
 
 - 软件配置中心的“重新读取”现在会显示加载状态和顶部结果提示。
