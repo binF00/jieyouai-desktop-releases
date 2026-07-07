@@ -4,23 +4,23 @@
 
 ## 最新版本
 
-版本：0.2.0-beta.15
+版本：1.0.0
 
-Windows 当前构建：修复部分 Windows 客户端在“恢复聊天记录”安全扫描时因为 Node 路径格式不兼容导致失败的问题。
+Windows 当前构建：正式第一版。优化网络配置引导、标题栏应用图标，并保留已验证通过的 Key 导入、软件配置和 Codex 聊天记录恢复流程。
 
 ### Windows 10 / Windows 11
 
 下载安装包：
 
-[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/0.2.0-beta.15/jieyouai-desktop-0.2.0-beta.15-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.0/jieyouai-desktop-1.0.0-win-x64-setup.exe)
 
 备用链接：
 
-[打开 GitHub 文件页](downloads/0.2.0-beta.15/jieyouai-desktop-0.2.0-beta.15-win-x64-setup.exe)
+[打开 GitHub 文件页](downloads/1.0.0/jieyouai-desktop-1.0.0-win-x64-setup.exe)
 
 校验文件：
 
-[SHA256SUMS.txt](downloads/0.2.0-beta.15/SHA256SUMS.txt)
+[SHA256SUMS.txt](downloads/1.0.0/SHA256SUMS.txt)
 
 ### macOS
 
