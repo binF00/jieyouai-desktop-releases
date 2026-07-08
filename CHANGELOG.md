@@ -7,6 +7,7 @@
 - macOS Apple Silicon 与 Intel 安装包构建通过 GitHub Actions，并同步到下载仓库。
 - macOS 当前为未公证安装包，首次打开需要右键选择“打开”。
 - 下载仓库 SHA256SUMS 已合并 Windows、macOS arm64、macOS x64 文件校验值。
+- 公开下载改为 GitHub Release 固定版本资产链接，避免继续使用 `main` 分支 raw 下载链接。
 
 ## 1.0.2
 

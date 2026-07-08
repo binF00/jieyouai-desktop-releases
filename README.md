@@ -10,7 +10,7 @@
 
 ### Windows 10 / Windows 11
 
-[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.3/jieyouai-desktop-1.0.3-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://github.com/binF00/jieyouai-desktop-releases/releases/download/v1.0.3/jieyouai-desktop-1.0.3-win-x64-setup.exe)
 
 备用入口：
 
@@ -20,17 +20,17 @@
 
 Apple Silicon 芯片，也就是 M1 / M2 / M3 / M4：
 
-[macOS Apple Silicon DMG，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.3/jieyouai-desktop-1.0.3-macos-arm64.dmg)
+[macOS Apple Silicon DMG，点击直接下载](https://github.com/binF00/jieyouai-desktop-releases/releases/download/v1.0.3/jieyouai-desktop-1.0.3-macos-arm64.dmg)
 
 Intel 芯片：
 
-[macOS Intel DMG，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.3/jieyouai-desktop-1.0.3-macos-x64.dmg)
+[macOS Intel DMG，点击直接下载](https://github.com/binF00/jieyouai-desktop-releases/releases/download/v1.0.3/jieyouai-desktop-1.0.3-macos-x64.dmg)
 
 备用压缩包：
 
-[macOS Apple Silicon app.zip](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.3/jieyouai-desktop-1.0.3-macos-arm64.app.zip)
+[macOS Apple Silicon app.zip](https://github.com/binF00/jieyouai-desktop-releases/releases/download/v1.0.3/jieyouai-desktop-1.0.3-macos-arm64.app.zip)
 
-[macOS Intel app.zip](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.3/jieyouai-desktop-1.0.3-macos-x64.app.zip)
+[macOS Intel app.zip](https://github.com/binF00/jieyouai-desktop-releases/releases/download/v1.0.3/jieyouai-desktop-1.0.3-macos-x64.app.zip)
 
 ### 校验文件
 
