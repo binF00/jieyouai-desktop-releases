@@ -1,0 +1,2 @@
+e858aee71589b24a1f2d5d2a8404d239e5c2a1ec9d33bc526b5d62b965ea0c28  release-assets/jieyouai-desktop-1.0.3-macos-arm64.app.zip
+62f409e63b533b91322dd65b73166321cecefc8d9ea6a066ebc5fcc90be34282  release-assets/jieyouai-desktop-1.0.3-macos-arm64.dmg

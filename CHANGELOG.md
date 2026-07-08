@@ -1,5 +1,13 @@
 # 发布说明
 
+## 1.0.3
+
+- Windows 安装包更新到 1.0.3，导入 Key 后启用 cc-switch 本地转发链路。
+- 客户端自身请求和本地转发出去的 Codex / Claude API 请求会使用“网络配置”中选中的连接方式。
+- macOS Apple Silicon 与 Intel 安装包构建通过 GitHub Actions，并同步到下载仓库。
+- macOS 当前为未公证安装包，首次打开需要右键选择“打开”。
+- 下载仓库 SHA256SUMS 已合并 Windows、macOS arm64、macOS x64 文件校验值。
+
 ## 1.0.2
 
 - 取消 Codex 聊天记录恢复前的 Windows 原生确认弹窗。
