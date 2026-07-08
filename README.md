@@ -4,17 +4,17 @@
 
 ## 最新版本
 
-版本：1.0.3
+Windows 最新版本：1.0.4
 
-本版本同时提供 Windows 与 macOS 安装包。Windows 已完成用户测试；macOS 为未签名安装包，首次打开时需要按下面说明操作。
+本次先更新 Windows 安装包。macOS 暂时保持 1.0.3 版本，仍为未签名安装包，首次打开时需要按下面说明操作。
 
 ### Windows 10 / Windows 11
 
-[Windows x64 安装包，点击直接下载](https://github.com/binF00/jieyouai-desktop-releases/releases/download/v1.0.3/jieyouai-desktop-1.0.3-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://github.com/binF00/jieyouai-desktop-releases/raw/main/downloads/1.0.4/jieyouai-desktop-1.0.4-win-x64-setup.exe)
 
 备用入口：
 
-[打开 GitHub 文件页](downloads/1.0.3/jieyouai-desktop-1.0.3-win-x64-setup.exe)
+[打开 GitHub 文件页](downloads/1.0.4/jieyouai-desktop-1.0.4-win-x64-setup.exe)
 
 ### macOS
 
@@ -34,9 +34,9 @@ Intel 芯片：
 
 ### 校验文件
 
-[SHA256SUMS.txt](downloads/1.0.3/SHA256SUMS.txt)
+[Windows SHA256SUMS.txt](downloads/1.0.4/SHA256SUMS.txt)
 
-SHA256 用于确认下载文件没有损坏或被替换。普通用户可以忽略。
+SHA256 用于确认下载文件没有损坏或被替换。普通用户可以忽略。macOS 校验文件仍在 1.0.3 下载目录中。
 
 ## 安装说明
 

@@ -1,5 +1,15 @@
 # 发布说明
 
+## 1.0.4
+
+- Windows 安装包更新到 1.0.4，本版本只更新 Windows x64。
+- 修复 Claude Code / Claude Desktop 导入 Key 后，编辑界面把本地转发地址误显示为请求地址的问题。
+- 通过“导入并启用当前 Key”写入的 Provider 继续复用 cc-switch 配置链路，请求地址保持为 `https://api.jieyouai.it.com`。
+- 解忧中转 Provider 不再显示无意义的官网链接，避免和请求地址混淆。
+- 选择非 Codex 软件时，不再显示 Codex 聊天记录恢复区域。
+- 去掉启用 Claude 后出现的内部 `local_route_enabled` 提醒。
+- 当前 GitHub Actions 额度不足，macOS 安装包暂不更新，继续使用 1.0.3。
+
 ## 1.0.3
 
 - Windows 安装包更新到 1.0.3，导入 Key 后启用 cc-switch 本地转发链路。
