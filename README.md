@@ -10,7 +10,7 @@ Windows 最新版本：1.0.4
 
 ### Windows 10 / Windows 11
 
-[Windows x64 安装包，点击直接下载](https://github.com/binF00/jieyouai-desktop-releases/raw/main/downloads/1.0.4/jieyouai-desktop-1.0.4-win-x64-setup.exe)
+[Windows x64 安装包，点击直接下载](https://raw.githubusercontent.com/binF00/jieyouai-desktop-releases/main/downloads/1.0.4/jieyouai-desktop-1.0.4-win-x64-setup.exe)
 
 备用入口：
 
